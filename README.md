@@ -1,2 +1,5 @@
 # C-OPP
 C++OPP
+Lập trình hướng đối tượng là một cách khá mới để tiếp cận nhiệm vụ của lập trình. Nó thay thế được gọi là ngôn ngữ lập trình thủ tục hoặc có cấu trúc như Algol, Pascal hoặc C, kể từ những năm 1960. Bản chất của lập trình có cấu trúc là giảm chương trình thành các phần nhỏ hơn và sau đó mã hóa các phần tử này ít nhiều độc lập với nhau. Mặc dù lập trình có cấu trúc đã mang lại kết quả tuyệt vời khi áp dụng cho chương trình nhung nó không thành công khi một chương trình đạt đến một kích thước nhất định. Để cho phép các chương trình phức tạp hơn bằng văn bản, phương pháp tiếp cận mới của OOP đã được phát minh. Bằng cách này, độ phức tạp được giảm xuống, khả năng tái sử dụng được tăng lên và lập trình viên có thể quản lý chương trình dễ dàng hơn.
+Mình có tham khảo được một tài liệu tiếng anh oop c++ rất đúng với bản chất của lập trình  hướng đối tượng từ nhược điểm của lập trình thủ tục hàm, xây dựng một object, các phương thức khởi tạo,  kế thừa và đa hình..... Có đầy đủ code exp mỗi phần nhé! Quan trọng nhất khi tài liệu tiếng anh là cần  kiên nhẫn. Đọc nhiều sẽ quen từ, tốc độ đọc cũng nhanh lên. 
+Chúc các bạn học tốt!
